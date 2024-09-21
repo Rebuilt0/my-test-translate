@@ -1,0 +1,89 @@
+{
+  "aiAssistantIds": [
+    "paraphrase",
+    "twitter",
+    "tech",
+    "reddit",
+    "paper",
+    "news",
+    "music",
+    "medical",
+    "legal",
+    "github",
+    "game",
+    "ecommerce",
+    "financial",
+    "fiction",
+    "ao3",
+    "ebook",
+    "design",
+    "bilingual-mix",
+    "web3"
+  ],
+  "enableInputTranslation": false,
+  "enabled": false,
+  "generalRule": {
+    "subtitleRule.add": {
+      "disabled": true
+    }
+  },
+  "inputTranslationService": "inherit",
+  "interfaceLanguage": "zh-CN",
+  "isChangedAlwaysTranslatedUrls": false,
+  "localUpdatedAt": "2024-09-21T14:01:24.148Z",
+  "modifiedBySystem": true,
+  "mouseHoverTranslationService": "inherit",
+  "pcFloatBall": {
+    "afterInstalledAt": "2023-10-28",
+    "blockUrls": [
+      "*immersivetranslate.com/preview",
+      "*.immersivetranslate.com/download-subtitle*"
+    ],
+    "clickType": "translate",
+    "enable": false,
+    "fixedPosition": "right",
+    "guideBlockUrls": [
+      "https://onboarding.immersivetranslate.com*",
+      "https://immersivetranslate.com/accounts/login*",
+      "https://immersivetranslate.cn/accounts/login*"
+    ],
+    "isPc": true,
+    "upgradeShowLimit": 50,
+    "upgradeVisible": true
+  },
+  "pcFloatBallMainBtnTooltipShownCount": 1,
+  "subtitleTranslateService": "inherit",
+  "targetLanguage": "zh-CN",
+  "translationService": "bing",
+  "translationServices": {
+    "claude": {
+      "visible": false
+    },
+    "deepl": {
+      "visible": false
+    },
+    "gemini": {
+      "visible": false
+    },
+    "google": {
+      "visible": false
+    },
+    "openai": {
+      "visible": false
+    }
+  },
+  "translationTheme": "dashedBorder",
+  "translationUrlPattern": {
+    "excludeMatches": [],
+    "matches": [
+      "twitter.com",
+      "x.com",
+      "www.reddit.com",
+      "www.kadaza.com",
+      "en.wikipedia.org",
+      "*.medium.com",
+      "news.ycombinator.com"
+    ]
+  },
+  "updatedAt": "2024-09-21T14:01:24.148Z"
+}
